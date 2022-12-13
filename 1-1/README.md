@@ -1,4 +1,4 @@
-I used (https://www.lihaoyi.com/)[Haoyi's] (https://github.com/com-lihaoyi/os-lib)[os-lib] to help parse the big food file.  Big props!  Very Helpful!
+I used [https://www.lihaoyi.com/](Haoyi's) [https://github.com/com-lihaoyi/os-lib](os-lib) to help parse the big food file.  Big props!  Very Helpful!
 
 I used `os.read.lines.stream` to send each individual line as a stream to the for loop to avoid increasing the memory impact of the large food file.
 
